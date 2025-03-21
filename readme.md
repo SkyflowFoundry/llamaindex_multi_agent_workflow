@@ -104,9 +104,7 @@ You will see the deidentified version of your input and a response from the LLM.
 - [x] Integrate LLM Agent using OpenAI GPT-4
 - [x] Chain them via `AgentWorkflow`
 - [ ] ✅ Publish `SkyflowPrivacyAgent` as an official tool on [LlamaIndex GitHub](https://github.com/jerryjliu/llama_index)
-- [ ] Add streaming/async handling
-- [ ] Add test coverage and docs for PR
-
+  
 ---
 
 ## ✍️ Want to Contribute?
