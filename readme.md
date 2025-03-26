@@ -115,12 +115,3 @@ We’d love to contribute this to the official LlamaIndex repo. If you'd like to
 2. Add `SkyflowPrivacyAgent` to `llama_index/tools`
 3. Include documentation + example usage
 4. Submit a PR titled: `feat(agent): Add SkyflowPrivacyAgent for privacy-preserving LLM workflows`
-
----
-
-## 👋 Author
-
-Made with ❤️ by **Devanshu Brahmbhatt**
-
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/devanshubrahmbhatt) for feedback, collaboration, or ideas!
-
